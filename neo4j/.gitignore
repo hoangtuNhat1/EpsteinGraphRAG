@@ -1,0 +1,13 @@
+# Neo4j data directories
+data/
+logs/
+import/
+plugins/
+
+# Environment files
+.env
+.env.local
+
+# Docker volumes
+*.dump
+*.backup
