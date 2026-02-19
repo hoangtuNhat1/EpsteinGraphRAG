@@ -1,0 +1,16 @@
+# Neo4j Driver
+neo4j>=5.15.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+openai
