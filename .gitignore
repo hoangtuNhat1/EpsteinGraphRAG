@@ -2,6 +2,7 @@
 data/
 neo4j/data/
 neo4j/logs/
+neo4j/import/
 
 # Python
 __pycache__/
